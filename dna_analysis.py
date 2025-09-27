@@ -1,4 +1,5 @@
-# Download chr1_GL383518v1_alt and gunzip the file.
+# Download the file chr1_GL383518v1_alt.fa.gz and decompress it using gunzip.
+
 # Task 1
 # Read the file 
 file_path = "/Informatics_573/chr1_GL383518v1_alt.fa"
